@@ -1,0 +1,6 @@
+[package]
+name = "HelloRust"
+version = "0.1.0"
+authors = ["osocron <osocron@gmail.com>"]
+
+[dependencies]
